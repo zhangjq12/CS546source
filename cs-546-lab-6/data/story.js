@@ -1,0 +1,6 @@
+let story = {
+    "storyTitle": "I've been a general of the village of elephants.",
+    "story": "Actually, I was a general. When I was 5, I found a super power of mine: I can speak with animals! So after school, I usually spend a lot of time with animals, like cats, dogs and tigers.\nOne day, I flied to a greenland in Africa, and there were a plenty of elephants running across the river. When I looked at the first elephant, I noticed that he looked at me too. He seemed like to send me some messages for rescuing the his family. And he promised me that I will be the leader of his huge family after rescuing successfully. He lead me into the deepest forrest, finding a small hole on a very huge tree. I looked into the hole, and found nothing in it. When I was confused, huge amount of bees came from the hole, and ran to the elephant family. At that time, I send the message to the queen of bees, which request them to stop this attacking to protect both bees and elephants.\nThen the amazing thing happened. The bees stop attacking and the queen came to me to thanks for reminding. All the bees were alive and elephants were safe. They want me to stay and be their leader. I accept, and conquer the whole family of elephants for over 5 years. When I said I have to leave, all the elephants shouted and didn't want me to leave."
+}
+
+module.exports = story;

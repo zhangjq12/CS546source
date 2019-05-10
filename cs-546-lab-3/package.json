@@ -1,0 +1,15 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "CS-546 Lab 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiaqian Zhang 10440712",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
