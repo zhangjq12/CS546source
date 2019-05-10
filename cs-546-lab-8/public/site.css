@@ -1,0 +1,5 @@
+h1{text-align: center;}
+form{text-align: center; width: 75%;}
+dl{width:100%; float: left;}
+dt{float:left; font-weight: bold;}
+dd{position: relative; left: 20px;}

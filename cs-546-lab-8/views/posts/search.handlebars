@@ -1,0 +1,12 @@
+<ul>
+    {{#each search}}  
+    <li>
+        <a href="/details/{{id}}">{{name}}</a>
+    </li>
+    {{/each}}
+</ul>
+<p class="not-found">{{notfound}}.</p>
+<p class="error">{{error}}</p>
+<div class="bottom">
+    <a href="/">Make another search</a>
+</div>
